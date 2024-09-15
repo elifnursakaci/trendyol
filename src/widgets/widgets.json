@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "component": "categories",
+    "title": "Kategoriler"
+  },
+  {
+    "id": 2,
+    "component": "introduction",
+    "title": "Tanıtım"
+  },
+  {
+    "id": 3,
+    "component": "forYouProduct",
+    "title": "Elifnur Şakacı, Sana Özel"
+  },
+  {
+    "id": 4,
+    "component": "bestSeller",
+    "title": "Çok Satanlar"
+  },
+  {
+    "id": 5,
+    "component": "newArrival",
+    "title": "Yeni Ürünler"
+  }
+]
